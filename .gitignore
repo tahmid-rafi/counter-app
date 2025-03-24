@@ -10,8 +10,6 @@ lerna-debug.log*
 node_modules
 public
 bun.lock
-package.json
-vite.config.ts
 
 dist
 dist-ssr
